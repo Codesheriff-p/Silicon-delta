@@ -92,11 +92,6 @@ const Footers = () => {
               </li>
               <li>
                 <a href="#" className="hover:text-white text-gray-400">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-white text-gray-400">
                   Newsletter
                 </a>
               </li>
@@ -111,9 +106,14 @@ const Footers = () => {
 
         {/* Footer bottom */}
         <div className="w-4/5 mx-auto text-center pb-6">
-          <hr className="py-4 border-gray-700" />
           <p className="text-gray-400 pb-4 font-bold">
-            © 2024 Silicon Delta. All rights reserved.
+            5 Chief Pius Wuchendu NTA Road, Behind Timeless Superstores,
+            Mgbouba, Port Harcourt, Rivers State
+          </p>
+          <hr className="py-4 border-gray-700" />
+
+          <p className="text-gray-400 pb-4 font-bold">
+            © 2025 Silicon Delta. All rights reserved.
           </p>
         </div>
       </div>
