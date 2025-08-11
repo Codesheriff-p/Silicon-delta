@@ -81,11 +81,6 @@ const How_It_Works = () => {
                 </h2>
                 <h2 className="font-bold text-orange-600">15%</h2>
               </div>
-
-              <div className="flex justify-between bg-gray-100 p-4 rounded-lg shadow-sm">
-                <h2 className="font-medium text-gray-800">Performance Bonus</h2>
-                <h2 className="font-bold text-orange-600">Up to 5%</h2>
-              </div>
             </div>
           </div>
         </div>
