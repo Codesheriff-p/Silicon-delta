@@ -65,7 +65,7 @@ const How_It_Works = () => {
                 <h2 className="font-medium text-gray-800">
                   Individual Courses
                 </h2>
-                <h2 className="font-bold text-orange-600">20%</h2>
+                <h2 className="font-bold text-orange-600">25%</h2>
               </div>
 
               <div className="flex justify-between bg-gray-100 p-4 rounded-lg shadow-sm">
@@ -79,7 +79,7 @@ const How_It_Works = () => {
                 <h2 className="font-medium text-gray-800">
                   Corporate Training
                 </h2>
-                <h2 className="font-bold text-orange-600">15%</h2>
+                <h2 className="font-bold text-orange-600">25%</h2>
               </div>
             </div>
           </div>
